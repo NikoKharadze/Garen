@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SILKNET</string>
+    <string name="title_home">Home</string>
+    <string name="title_offer">Offers</string>
+    <string name="title_notifications">Shop</string>
+    <string name="quiz">Quiz</string>
+    <string name="wheel">Wheel</string>
+    <string name="prizes">Prizes</string>
+    <string name="bust">Lost! :/</string>
+    <string name="win">Winner! prize:</string>
+    <string name="spin">Spin The Wheel</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="dft">"1"</string>
+    <string name="coins">"coins left 5"</string>
+    <string name="answer">"submit!"</string>
+  <string name="announce">"Win and Claim Prizes!"</string>
+</resources>

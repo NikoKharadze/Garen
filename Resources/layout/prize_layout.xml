@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Rectangle 1 -->
+    <RelativeLayout
+        android:id="@+id/rectangle1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="16dp"
+        android:background="#87CEEB"
+        android:clickable="true"
+        android:focusable="true"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:id="@+id/prize1"/>
+    </RelativeLayout>
+
+    <!-- Rectangle 2 -->
+    <RelativeLayout
+        android:id="@+id/rectangle2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/rectangle1"
+        android:layout_margin="16dp"
+        android:background="#98FB98"
+        android:clickable="true"
+        android:focusable="true"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center" 
+            android:id="@+id/prize2"/>
+    </RelativeLayout>
+
+    <!-- Rectangle 3 -->
+    <RelativeLayout
+        android:id="@+id/rectangle3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/rectangle2"
+        android:layout_margin="16dp"
+        android:background="#FFA07A"
+        android:clickable="true"
+        android:focusable="true"
+       >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center" 
+            android:id="@+id/prize3"/>
+    </RelativeLayout>
+
+     <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:layout_marginStart="0dp"
+        android:background="?android:attr/windowBackground"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/navigation" />
+
+</RelativeLayout>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/navigation1"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_alignParentTop="true">
+        
+         <TextView
+            android:layout_width="300px"
+            android:layout_height="120px"
+            android:layout_gravity="top|center_horizontal"
+            android:gravity="center"
+            android:layout_marginTop="200px"
+            android:text="@string/coins"
+            android:id="@+id/coin_count"
+            android:background="@drawable/border"/>
+
+        <SkiaSharp.Views.Android.SKCanvasView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/skiaSurfaceView1"
+        />
+
+        <SkiaSharp.Views.Android.SKCanvasView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/skiaSurfaceView"
+        />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/spin"
+            android:id="@+id/btn_spin"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="400px"/> 
+         <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/plus"
+            android:id="@+id/btn_betplus"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="250px"/> 
+        <TextView
+            android:layout_width="300px"
+            android:layout_height="120px"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="250px"
+            android:gravity="center"
+            android:text="@string/dft"
+            android:id="@+id/text_bet"
+            android:background="@drawable/border"/>
+         <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/minus"
+            android:id="@+id/btn_betminus"
+            android:layout_gravity="bottom|left"
+            android:layout_marginBottom="250px"/> 
+        </FrameLayout>
+         
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:layout_marginStart="0dp"
+        android:background="?android:attr/windowBackground"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/navigation" />
+
+</RelativeLayout>
