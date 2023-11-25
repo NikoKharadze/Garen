@@ -1,0 +1,554 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Canberra", "Melbourne"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1920", "1905"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe"],
+        "answer": "b"
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mars", "Venus", "Jupiter"],
+        "answer": "a"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Ringgit"],
+        "answer": "a"
+      },
+      {
+        "question": "Which continent is the least populated?",
+        "options": ["Asia", "Australia", "Antarctica"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean"],
+        "answer": "c"
+      },
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen"],
+        "answer": "b"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did the United States declare its independence?",
+        "options": ["1776", "1789", "1800"],
+        "answer": "a"
+      },
+      {
+        "question": "Who is known as the 'Father of Computer Science'?",
+        "options": ["Alan Turing", "Bill Gates", "Steve Jobs"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the square root of 100?",
+        "options": ["10", "8", "12"],
+        "answer": "a"
+      },
+      {
+        "question": "Which famous scientist developed the theory of general relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the world's largest ocean mammal?",
+        "options": ["Dolphin", "Blue Whale", "Shark"],
+        "answer": "b"
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "South Korea"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did the Berlin Wall fall, symbolizing the end of the Cold War?",
+        "options": ["1985", "1989", "1991"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Mango", "Avocado", "Tomato"],
+        "answer": "b"
+      },
+      {
+        "question": "Who wrote the play 'Hamlet'?",
+        "options": ["William Shakespeare", "Jane Austen", "Charles Dickens"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the largest desert in the world by area?",
+        "options": ["Sahara Desert", "Gobi Desert", "Antarctic Desert"],
+        "answer": "a"
+      },
+      {
+        "question": "In which country did the Renaissance originate?",
+        "options": ["Italy", "France", "Spain"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Gd", "Au", "Ag"],
+        "answer": "b"
+      },
+      {
+        "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+        "options": ["Venus", "Mars", "Jupiter"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa"],
+        "answer": "c"
+      },
+      {
+        "question": "Which mountain range is home to the world's highest peaks, including Mount Everest?",
+        "options": ["Rocky Mountains", "Andes Mountains", "Himalayas"],
+        "answer": "c"
+      },
+      {
+        "question": "Who wrote the novel 'Pride and Prejudice'?",
+        "options": ["Charlotte Brontë", "Jane   Austen", "Emily Brontë"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the main component of Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide"],
+        "answer": "a"
+      },
+      {
+        "question": "Which famous scientist formulated the laws of motion and universal gravitation?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did the French Revolution begin?",
+        "options": ["1789", "1804", "1765"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Skin", "Heart"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did the first manned moon landing occur?",
+        "options": ["1969", "1972", "1985"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3"],
+        "answer": "b"
+      },
+      {
+        "question": "Who painted 'Starry Night,' a famous masterpiece depicting a night sky?",
+        "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso"],
+        "answer": "a"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "options": ["Sweden", "Norway", "Finland"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the primary function of the cerebellum in the human brain?",
+        "options": ["Memory storage", "Balance and coordination", "Speech production"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the largest internal organ in the human body?",
+        "options": ["Liver", "Kidney", "Stomach"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did the World Wide Web become publicly accessible?",
+        "options": ["1989", "1991", "1995"],
+        "answer": "b"
+      },
+      {
+        "question": "Who is the author of 'The Great Gatsby,' a novel set in the Jazz Age?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the boiling point of water in degrees Celsius?",
+        "options": ["100°C", "0°C", "50°C"],
+        "answer": "a"
+      },
+      {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the process by which plants make their own food using sunlight?",
+        "options": ["Respiration", "Photosynthesis", "Transpiration"],
+        "answer": "b"
+      },
+      {
+        "question": "Who is known as the 'Father of Modern Physics'?",
+        "options": ["Niels Bohr", "Max Planck", "Albert Einstein"],
+        "answer": "c"
+      },
+      {
+        "question": "In which country did the Renaissance painter Leonardo da Vinci live?",
+        "options": ["Spain", "Italy", "France"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "options": ["Tofu", "Seaweed", "Miso paste"],
+        "answer": "c"
+      },
+      {
+        "question": "Which scientist is credited with the discovery of penicillin?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the currency of South Korea?",
+        "options": ["Yen", "Won", "Baht"],
+        "answer": "b"
+      },
+      {
+        "question": "Who wrote 'The Adventures of Sherlock Holmes'?",
+        "options": ["Agatha Christie", "Arthur Conan Doyle", "Dashiell Hammett"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the capital city of Brazil?",
+        "options": ["Rio de Janeiro", "Brasília", "Sao Paulo"],
+        "answer": "b"
+      },
+      {
+        "question": "Which scientist is known for developing the theory of evolution by natural selection?",
+        "options": ["Charles Darwin", "Gregor Mendel", "Marie Curie"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the chemical symbol for sodium?",
+        "options": ["S", "Na", "So"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1945", "1950"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the smallest bone in the human body?",
+        "options": ["Femur", "Stapes", "Tibia"],
+        "answer": "b"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Jane Austen", "F. Scott Fitzgerald"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the primary function of the mitochondria in a cell?",
+        "options": ["Cellular respiration", "Photosynthesis", "DNA replication"],
+        "answer": "a"
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mars", "Venus", "Jupiter"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the capital city of South Africa?",
+        "options": ["Johannesburg", "Cape Town", "Pretoria"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Gd", "Au", "Ag"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did the United States gain independence from Great Britain?",
+        "options": ["1776", "1789", "1800"],
+        "answer": "a"
+      },
+      {
+        "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+        "options": ["F. Scott Fitzgerald", "Harper Lee", "Mark Twain"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the capital city of China?",
+        "options": ["Tokyo", "Beijing", "Seoul"],
+        "answer": "b"
+      },
+      {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the main component of Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did the Berlin Wall fall, symbolizing the end of the Cold War?",
+        "options": ["1985", "1989", "1991"],
+        "answer": "b"
+      },
+      {
+        "question": "Who is known as the 'Father of Computer Science'?",
+        "options": ["Alan Turing", "Bill Gates", "Steve Jobs"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the chemical symbol for helium?",
+        "options": ["He", "H", "Hy"],
+        "answer": "a"
+      },
+      {
+        "question": "In literature, who wrote the novel 'Jane Eyre'?",
+        "options": ["Jane Austen", "Emily Brontë", "Charlotte Brontë"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the currency of Mexico?",
+        "options": ["Peso", "Dollar", "Euro"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the capital city of Italy?",
+        "options": ["Madrid", "Paris", "Rome"],
+        "answer": "c"
+      },
+      {
+        "question": "In which year did Christopher Columbus first reach the Americas?",
+        "options": ["1492", "1500", "1510"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the main ingredient in traditional Indian curry?",
+        "options": ["Turmeric", "Cumin", "Coriander"],
+        "answer": "a"
+      },
+      {
+        "question": "Who is known as the \"Queen of Pop\"?",
+        "options": ["Madonna", "Beyoncé", "Lady Gaga"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Ringgit"],
+        "answer": "a"
+      },
+      {
+        "question": "Which planet is known as the \"Morning Star\" or \"Evening Star\"?",
+        "options": ["Venus", "Mars", "Jupiter"],
+        "answer": "a"
+      },
+      {
+        "question": "In which country did the Renaissance originate?",
+        "options": ["Italy", "France", "Spain"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "options": ["Tofu", "Seaweed", "Miso paste"],
+        "answer": "c"
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Jupiter", "Saturn", "Mars"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did the World Health Organization (WHO) officially declare COVID-19 a pandemic?",
+        "options": ["2018", "2019", "2020"],
+        "answer": "c"
+      },
+      {
+        "question": "Who wrote the play \"A Midsummer Night's Dream\"?",
+        "options": ["William Shakespeare", "Jane Austen", "Fyodor Dostoevsky"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the capital city of Argentina?",
+        "options": ["Buenos Aires", "Santiago", "Bogotá"],
+        "answer": "a"
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did the United States celebrate its bicentennial?",
+        "options": ["1776", "1876", "1976"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the chemical symbol for silver?",
+        "options": ["S", "Si", "Ag"],
+        "answer": "c"
+      },
+      {
+        "question": "Which planet is known as the \"Red Planet\"?",
+        "options": ["Mars", "Venus", "Mercury"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the main ingredient in traditional Mexican guacamole?",
+        "options": ["Mango", "Avocado", "Tomato"],
+        "answer": "b"
+      },
+      {
+        "question": "In which year did World War I begin?",
+        "options": ["1914", "1918", "1922"],
+        "answer": "a"
+      },
+      {
+        "question": "Which element has the chemical symbol \"Fe\"?",
+        "options": ["Iron", "Gold", "Silver"],
+        "answer": "a"
+      },
+      {
+        "question": "Which continent is known as the \"Land Down Under\"?",
+        "options": ["Europe", "Africa", "Australia"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["W", "H2O", "O2"],
+        "answer": "b"
+      },
+      {
+        "question": "Who directed the film \"Jurassic Park\"?",
+        "options": ["Steven Spielberg", "Christopher Nolan", "James Cameron"],
+        "answer": "a"
+      },
+      {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Marie Curie", "Amelia Earhart", "Florence Nightingale"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Ringgit"],
+        "answer": "a"
+      },
+      {
+        "question": "Which artist is famous for painting the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+        "answer": "b"
+      },
+      {
+        "question": "In which country did the sport of badminton originate?",
+        "options": ["China", "India", "Indonesia"],
+        "answer": "a"
+      },
+      {
+        "question": "Who co-founded the company Apple Inc. with Steve Jobs and Ronald Wayne?",
+        "options": ["Bill Gates", "Steve Wozniak", "Mark Zuckerberg"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the largest moon of Jupiter?",
+        "options": ["Europa", "Ganymede", "Callisto"],
+        "answer": "b"
+      },
+      {
+        "question": "Who wrote the novel \"Brave New World\"?",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the scientific name for the process of a liquid turning into a gas?",
+        "options": ["Evaporation", "Condensation", "Sublimation"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did the Industrial Revolution begin?",
+        "options": ["1750", "1800", "1850"],
+        "answer": "a"
+      },
+      {
+        "question": "Which Mountain range separates Europe and Asia?",
+        "options": ["Alps", "Ural Mountains", "Himalayas"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the currency of Switzerland?",
+        "options": ["Euro", "Franc", "Krona"],
+        "answer": "b"
+      },
+      {
+        "question": "Who composed the famous classical piece \"The Four Seasons\"?",
+        "options": ["Johann Sebastian Bach", "Ludwig van Beethoven", "Antonio Vivaldi"],
+        "answer": "c"
+      },
+      {
+        "question": "What does the acronym \"URL\" stand for?",
+        "options": ["Uniform Resource Locator", "Universal Reference Link", "Ultimate Resource Locator"],
+        "answer": "a"
+      },
+      {
+        "question": "How many letters are there in the English alphabet?",
+        "options": ["26", "24", "28"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did the first modern Olympic Games take place?",
+        "options": ["1886", "1896", "1906"],
+        "answer": "b"
+      },
+      {
+        "question": "Who played the lead role in the film \"The Matrix\"?",
+        "options": ["Keanu Reeves", "Tom Cruise", "Leonardo DiCaprio"],
+        "answer": "a"
+      },
+      {
+        "question": "What is the approximate population of the world as of the latest estimate (2023)?",
+        "options": ["5 billion", "7.9 billion", "10 billion"],
+        "answer": "b"
+      }
+    ]
+}

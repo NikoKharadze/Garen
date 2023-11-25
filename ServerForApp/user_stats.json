@@ -1,0 +1,17 @@
+{
+      "prizes": [
+        {
+          "expirationDate": "2023-12-31",
+          "megabytesWon": 100
+        },
+        {
+          "expirationDate": "2023-11-30",
+          "megabytesWon": 50
+        },
+        {
+          "expirationDate": "2024-01-15",
+          "megabytesWon": 200
+        }
+      ]
+}
+  
